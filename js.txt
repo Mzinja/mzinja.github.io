@@ -1,0 +1,7 @@
+// script.js
+
+// Example function to change text on button click
+function changeText() {
+    const button = document.getElementById('change-text-btn');
+    button.textContent = 'Text Changed!';
+}
